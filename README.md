@@ -13,7 +13,7 @@ In the end, it works.
 At this point, many thanks to Frank dd4wh and Paul Stoffregen. I have learned a lot from you both. 
 And of course, many others as well. 
 
-73 from Uli **dl2dbg*** 
+73 from Uli **dl2dbg** 
 
 ### Programming in this case, is simpel
 The programming of the Software Defined Radio (SDR) is accomplished by utilizing the existing DSP software library 
