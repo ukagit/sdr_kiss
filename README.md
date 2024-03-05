@@ -24,8 +24,8 @@ It is comparable to GNU Radio Companion. https://www.pjrc.com/teensy/td_libs_Aud
 
 ## SDR  block diagram
 ![schematic](./floorplan.png)
-![schematic](/home/ulrich/Dokumente/GitHub/sdr_kiss/teensy_tft.png)
-![schematic](/home/ulrich/Dokumente/GitHub/sdr_kiss/hw_view.png)
+![schematic](./teensy_tft.png)
+![schematic](./hw_view.png)
 
 
 ## The function of Software Defined Radio (SDR) involves several blocks:
