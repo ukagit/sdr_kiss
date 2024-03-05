@@ -23,7 +23,7 @@ The Teensy Audio Library is a versatile toolkit designed for creating streaming 
 It is comparable to GNU Radio Companion. https://www.pjrc.com/teensy/td_libs_Audio.html
 
 ## SDR  block diagram
-![schematic](/home/ulrich/Dokumente/GitHub/sdr_kiss/floorplan.png)
+![schematic](./floorplan.png)
 ![schematic](/home/ulrich/Dokumente/GitHub/sdr_kiss/teensy_tft.png)
 ![schematic](/home/ulrich/Dokumente/GitHub/sdr_kiss/hw_view.png)
 
