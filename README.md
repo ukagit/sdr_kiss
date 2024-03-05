@@ -1,6 +1,6 @@
 # SDR kiss "keep it simpel"  
 
-+ VERSION = "1.0  1.3.24" 
++ VERSION = "1.0  5.3.24" 
 ### Goal
 The construction and programming of the SDR receiver was a learning exercise for me. 
 My question was: Have I understood the fundamentals of SDR and can I build an SDR with 
