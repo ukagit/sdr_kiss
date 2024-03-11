@@ -1,4 +1,4 @@
-//5.3.24 dl2dbg  in git geladen
+//11.3.24 dl2dbg  in git geladen
 //
 //--------------------------------------------------
 /*
@@ -966,6 +966,7 @@ void loop() {
   }
 
 // read the knob and adjust the filter frequency
+// PIN A2 (16)
   int knob2 = analogRead(A2);
   // quick and dirty equation for exp scale frequency adjust
   float freqf =  expf((float)knob2 / 150.0) * 10.0 + 80.0;
