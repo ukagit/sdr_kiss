@@ -28,6 +28,7 @@ It is comparable to GNU Radio Companion. https://www.pjrc.com/teensy/td_libs_Aud
 ![schematic](./hw_view.png)
 
 
+
 ## The function of Software Defined Radio (SDR) involves several blocks:
 
 ### i2s2 
@@ -131,6 +132,10 @@ cat sdr_kiss.ino | grep //PIN
   //PIN button
   //PIN SI5351  <Wire.h>  Hardware PIN  18 , 19 default
 ```
+### circuit_diagram
+I did not use a PCB for constructing the SDR; instead, I wired it freehand. The correct pin connections are always those in the source code. As a reference, I have compiled all components onto one page for easier overview.
+![schematic](./circuit_diagram.png)
+
 ### A list of sources
 
 **Thank you very much for that.** 
